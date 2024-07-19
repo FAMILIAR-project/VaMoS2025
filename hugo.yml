@@ -81,12 +81,12 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "19th International Working Conference on Variability Modelling of Software-Intensive Systems 4-6 February 2025 | Rennes, France"
-    Content: "19th International Working Conference on Variability Modelling of Software-Intensive Systems 4-6 February 2025 | Rennes, France" 
+    Title: "19th International Working Conference on Variability Modelling of Software-Intensive Systems "
+    Content: "4-6 February 2025 | Rennes, France" 
     Extended: ""
 
   socialIcons:
-    - name: instagram
+    - name: twitter
       url: "https://x.com/vamosconf"
 
   analytics:
