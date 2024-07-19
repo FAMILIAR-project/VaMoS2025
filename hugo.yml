@@ -61,8 +61,8 @@ params:
 
   label:
     text: ""
-    icon: "images/logoVaMoS2.png" # "images/BaladinsLogoResize.png" #/apple-touch-icon.png
-    iconHeight: 100
+    icon: "images/logoVaMoS3.png" # "images/BaladinsLogoResize.png" #/apple-touch-icon.png
+    iconHeight: 120
 
   # profile-mode
   profileMode:
