@@ -3,7 +3,7 @@
     {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
     {{- else }}
-    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+    <span>&copy; 2001-{{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
     {{- end }}
 </footer>
 {{- end }}
@@ -16,7 +16,7 @@
 </a>
 {{- end }}
 
-
+{{- partial "extend_footer.html" . }}
 
 <script>
     let menu = document.getElementById('menu')
