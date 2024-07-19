@@ -5,33 +5,24 @@ url: /travel/
 weight: 60
 ---
 
-### From America, Asia or Oceania
 
-Most major airlines operate flights to Paris Charles de Gaulle airport (airport code: CDG). From there you have three main options:
+## By train
 
-- [Air France](https://www.airfrance.fr/en) operates three daily flights to Rennes (airport code: RNS)
-- The [French railways](https://en.oui.sncf/en/) operate four daily direct connections from CDG airport to Rennes (travel time: 2h45)
-- Take a [bus to Paris Montparnasse train station](https://www.lebusdirect.com/en/lines-and-schedules/cdg-airport-paris-gare-montparnasse-line.html) (travel time: ~1h15), then the French railways operate numerous connections to Rennes (travel time: 1h25)
+Rennes can be easily reached by fast train from Paris in 1 hour and 25 minutes (~ 20 trains per day). Consequently, Rennes is conveniently accessible by train from any European city that has a possible connection with Paris. You can use the chronotrain website to find out which cities are connected to Rennes in less than 5 hours by train.
 
-Note that **train tickets must be purchased as early as possible**, otherwise you’ll end up paying much more than necessary and risk not being able to board. Bus tickets between the airport and the train station can be purchased at the last minute.
+## By plane or plane + train
 
+Rennes airport offers direct flights from the 3 hubs of Paris CDG, Amsterdam Schiphol and Frankfurt. This makes it easy to reach Rennes from most oversea flights. Note that Paris CDG airport has a train station where you can directly reach Rennes by fast train in ~2 hours and 30 minutes (~ 8 trains per day). Amsterdam is also connected to Paris by train using Thalys, and London is connected to Paris by Eurostar trains.
 
+## How to get from Rennes train station to downtown Rennes by public transport?
 
-### From Europe or Africa
+The train station of Rennes is at the south of the city center and is connected to the metro lines making everywhere downtown accessible in 3 minutes.
 
-European and African attendees will find several additional options:
+## How to get from Rennes airport to downtown Rennes by public transport?
 
-- **From Belgium and the Netherlands**: Air France operates one direct daily flight to Rennes (RNS) from Brussels and Amsterdam.
-- Many European and African airlines operate flights to Paris Orly airport (ORY). This airport is slightly smaller and more convenient than CDG. From there, take a bus to Paris Montparnasse train station (travel time: 20-30 minutes), then the [French railways](https://en.oui.sncf/en/) operate numerous connections to Rennes (travel time: 1h25)
-
-Note that **train tickets must be purchased as early as possible**, otherwise you’ll end up paying much more than necessary and risk not being able to board. Bus tickets between the airport and the train station can be purchased at the last minute.
+The city center of Rennes is reachable in about 30 minutes by public transport by taking the line C6.
 
 
 
-### From France
 
-Most French attendees will find train to be the most convenient option.
-Air France operates a few direct flights from Paris, Lyon, Marseille and Toulouse.
-Cost-conscious attendees may want to take a look at long-distance bus lines to Rennes
 
-Note that **train and bus tickets must be purchased as early as possible**, otherwise you’ll end up paying much more than necessary and risk not being able to board.
