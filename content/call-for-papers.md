@@ -1,7 +1,7 @@
 ---
 menu: main
-title: Call # for Papers
-weight: 20
+title: Call for Papers
+weight: 10
 url : "/cfp/"
 ---
 
