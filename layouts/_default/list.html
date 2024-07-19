@@ -1,8 +1,6 @@
 {{- define "main" }}
 
 
-{{ partial "carousel.html" (dict "context" . "items" "1" "height" "60" "unit" "%" "duration" "4000") }}
-
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
 {{- partial "index_profile.html" . }}
 {{- else }} {{/* if not profileMode */}}
