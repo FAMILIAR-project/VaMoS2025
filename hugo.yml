@@ -86,7 +86,7 @@ params:
     Extended: ""
 
   socialIcons:
-    - name: instagram
+    - name: twitter
       url: "https://x.com/vamosconf"
 
   analytics:
