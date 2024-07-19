@@ -60,9 +60,9 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: " "
+    text: ""
     icon: "images/logoVaMoS.png" # "images/BaladinsLogoResize.png" #/apple-touch-icon.png
-    iconHeight: 130
+    iconHeight: 190
 
   # profile-mode
   profileMode:
