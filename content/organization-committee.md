@@ -1,6 +1,6 @@
 ---
-title: Organization Committee
 menu: Organization
+title: Organization Committee
 weight: 20
 url : "/organization/"
 ---
