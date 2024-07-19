@@ -1,118 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Les Baladins de la Tour | Saint Aubin du Cormier</title>
-    <link>http://lesbaladinsdelatour.free.fr/</link>
-    <description>Recent content on Les Baladins de la Tour | Saint Aubin du Cormier</description>
-    <image>
-      <title>Les Baladins de la Tour | Saint Aubin du Cormier</title>
-      <url>http://lesbaladinsdelatour.free.fr/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://lesbaladinsdelatour.free.fr/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
+    <title>19th International Working Conference on Variability Modelling of Software-Intensive Systems 4-6 February 2025 | Rennes, France</title>
+    <link>https://familiar-project.github.io/VaMoS2025/</link>
+    <description>Recent content on 19th International Working Conference on Variability Modelling of Software-Intensive Systems 4-6 February 2025 | Rennes, France</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
-    <lastBuildDate>Fri, 01 Sep 2023 10:41:53 +0200</lastBuildDate><atom:link href="http://lesbaladinsdelatour.free.fr/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://familiar-project.github.io/VaMoS2025/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Inscription 2023-2024</title>
-      <link>http://lesbaladinsdelatour.free.fr/posts/inscriptions2023/</link>
-      <pubDate>Fri, 01 Sep 2023 10:41:53 +0200</pubDate>
-      
-      <guid>http://lesbaladinsdelatour.free.fr/posts/inscriptions2023/</guid>
-      <description>La fiche d&amp;rsquo;inscription est disponible! Si vous n&amp;rsquo;êtes pas pré-inscrit ou vous n&amp;rsquo;avez pas pris contact, merci d&amp;rsquo;envoyer un email à &lt;a href=&#34;mailto:lesbaladinsdelatour35@gmail.com&#34;&gt;lesbaladinsdelatour35@gmail.com&lt;/a&gt; A noter qu&amp;rsquo;à partir de cette année vous avez la possibilité de régler adhésion et cotisation d&amp;rsquo;atelier directement en ligne via le site HELLOASSO : &lt;a href=&#34;https://www.helloasso.com/associations/les-baladins-de-la-tour-35&#34;&gt;https://www.helloasso.com/associations/les-baladins-de-la-tour-35&lt;/a&gt;</description>
-    </item>
-    
-    <item>
-      <title>Pré-inscription 2023-2024 et calendrier prévisionnel</title>
-      <link>http://lesbaladinsdelatour.free.fr/posts/preinscription2023/</link>
-      <pubDate>Sat, 08 Jul 2023 10:41:53 +0200</pubDate>
-      
-      <guid>http://lesbaladinsdelatour.free.fr/posts/preinscription2023/</guid>
-      <description>Le formulaire de pré-inscription est disponible en ligne: &lt;a href=&#34;https://framaforms.org/pre-inscription-2023-2024-les-baladins-de-la-tour-1687245325&#34;&gt;https://framaforms.org/pre-inscription-2023-2024-les-baladins-de-la-tour-1687245325&lt;/a&gt; Le calendrier prévisionnel des ateliers 2023-2024 est également connu&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Fonctionnement</title>
-      <link>http://lesbaladinsdelatour.free.fr/fonctionnement/</link>
+      <title>Important Dates</title>
+      <link>https://familiar-project.github.io/VaMoS2025/dates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://lesbaladinsdelatour.free.fr/fonctionnement/</guid>
-      <description>Les ateliers sont ouverts à tous, des enfants dès l&amp;rsquo;âge de 6 ans aux adultes, débutants comme confirmés dans la pratique du théâtre. Tous les groupes travaillent sur un spectacle mis en scène par un professionnel durant l’année, et regroupant l’ensemble des acteurs. L’originalité est de présenter un travail commun en fin d’année, regroupant l’ensemble des acteurs des différents groupe. Ce format nous permet de présenter des travaux individuels, de consacrer plus de temps à des scènes et séquences dans chaque groupe, tout en offrant un spectacle complet en fin d’année.
-Par des jeux et exercices en début d’année les groupes se concentrent sur le corps, l’espace, le rythme, la voix, permettant ainsi de s’engager dans des scènes improvisées ou écrites, fantaisistes ou réalistes, mais toujours faisant appel à la créativité et l’imagination des participants. Ce format éprouvé depuis plusieurs années nous permet de participer à une véritable création, de s’y engager pleinement et de bénéficier du temps nécessaire pour privilégier la qualité d’un spectacle intégral.
-Horaires Le calendrier prévisionnel des ateliers 2023-2024. Tous les MERCREDIS, espace loisir et culture, salle C:
-GROUPE EVEIL (CP, CE1, CE2) : 13h-14h (Attention 9 places uniquement) GROUPES CM (environ 1h20) : Entre10h et 12h, et/ou entre 12h et 14h si second groupe GROUPES COLLEGE Jeune (environ 1h30) : Entre 14h et 15h30 GROUPES COLLEGE grand (environ 1h40) : Entre 16h et 17h40 GROUPE LYCEE (environ 1h50) : entre 17h40 et 19h30 GROUPE ADULTE (environ 2h) : entre 20h40 et 22h40 En fonction de la maturité des enfants des passerelles sont possibles, n&amp;rsquo;hésitez pas à nous consulter. Les plages horaires sont approximatives et seront précisées une fois les inscriptions clôturées.
-Les tarifs seront précisés à l&amp;rsquo;inscription, entre 135 et 240 euros environ suivant les durées d’atelier. Adhésion obligatoire à l&amp;rsquo;association : 10 euros (l&amp;rsquo;adhésion est familiale).</description>
+      <guid>https://familiar-project.github.io/VaMoS2025/dates/</guid>
+      <description>Conference: February 4-6, 2025
+Important dates:
+Abstract Submission: 25 October 2024 (AoE). Paper Submission: 1 November 2024 (AoE). Notification: 2 December 2024 (AoE). Final Version: 13 December 2024 (AoE). Conference: 4-6 February 2025 (AoE) </description>
     </item>
     
     <item>
-      <title>Actualité</title>
-      <link>http://lesbaladinsdelatour.free.fr/actualite/</link>
+      <title>Call for Papers</title>
+      <link>https://familiar-project.github.io/VaMoS2025/cfp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://lesbaladinsdelatour.free.fr/actualite/</guid>
-      <description>Inscription 2023-2024 La fiche d&amp;rsquo;inscription est disponible! Si vous n&amp;rsquo;êtes pas pré-inscrit ou vous n&amp;rsquo;avez pas pris contact, merci d&amp;rsquo;envoyer un email à lesbaladinsdelatour35@gmail.com A noter qu&amp;rsquo;à partir de cette année vous avez la possibilité de régler adhésion et cotisation d&amp;rsquo;atelier directement en ligne via le site HELLOASSO : https://www.helloasso.com/associations/les-baladins-de-la-tour-35
-Pré-inscription 2023-2024 et calendrier prévisionnel Le formulaire de pré-inscription est disponible en ligne: https://framaforms.org/pre-inscription-2023-2024-les-baladins-de-la-tour-1687245325 Le calendrier prévisionnel des ateliers 2023-2024 est également connu&amp;hellip;
-Spectacles 2023 Les spectacles se dérouleront les 26, 27, et 28 mai 2023 à Bel Air Atelier Eveil (CP au CE2) - Thème 2022 Les ateliers d&amp;rsquo;éveil se déroulent en partenariat avec la médiathèque&amp;hellip;
-Thème 2022 : Un manifeste contre le repli identitaire. Deux regards sur les migrants et nos sociétés qui se barricadent et se protègent, qui oublient leur héritage, deux tonalités par deux auteurs qui traitent, l’un cyniquement, l’autre poétiquement, de ce qui se joue aujourd’hui autour de nous , à côté de nous, et « chez nous ».</description>
+      <guid>https://familiar-project.github.io/VaMoS2025/cfp/</guid>
+      <description>19th International Working Conference on Variability Modelling of Software-Intensive Systems 4-6 February 2025 | Rennes, France | vamosconf.net/2025
+*** In exceptional cases, authors of accepted papers may be granted permission to present online if they provide valid reasons for being unable to travel, such as personal circumstances or financial constraints. ***
+Important dates:
+Abstract Submission: 25 October 2024 (AoE). Paper Submission: 1 November 2024 (AoE). Notification: 2 December 2024 (AoE). Final Version: 13 December 2024 (AoE). Conference: 4-6 February 2025 (AoE) Scope and Topics VaMoS is a venue to discuss breakthroughs and experiences — academic or industrial — about variability-aware modelling techniques and their applications to software-intensive systems. VaMoS started in 2007 as a workshop and became a working conference in 2020. Over the years, it developed a “community spirit”. The following words best define this spirit: discussion and openness. VaMoS is intrinsically discussion-oriented, and its schedule reflects this orientation. For example, there is a single track to allow everyone to participate in all sessions. At the end of each paper presentation, one or more discussants — who read the paper in advance — give their insights and invite the audience to engage in the Q/A session. VaMoS is also fundamentally open. It welcomes new fields of variability-intensive research, such as artificial intelligence, hybrid software-hardware systems, etc. VaMoS also welcomes newcomers in the variability community, either junior researchers (MSc and PhD students) or more experienced researchers coming from other fields and discovering variability research, given the ubiquity of variability in software-intensive systems nowadays.
+Most of today&amp;rsquo;s software is made variable to allow for more adaptability and economies of scale, while many development practices (DevOps, A/B testing, parameter tuning, continuous integration) support this goal of engineering software variants. VaMoS is the ideal venue to explore the underlying problems (automation, traceability, combinatorial explosion) and their solutions. Moreover, variability is prominent in many systems - not only in software. For these reasons, we welcome contributions from related areas (configuration, configurable systems, product lines, adaptive systems, generators) as well as from new and emerging domains where techniques to manage complexity introduced by variability are applied (IoT systems, 3D printing, autonomous and deep learning systems, software-defined networks, security, generative art, games, research software).
+Topics of interest include, but are not limited to:
+Variability Modeling and Realization Variability in Emerging Domains/Technologies Automated Reasoning on Variability Variability in AI Methods AI for Variability (Generative AI, Large Language Models) Variability for Sustainability Sustainable Variability Variability Across the Software Lifecycle Variability in Adaptive Systems Test and Verification of Variable Systems Configuration Management Evolution of Variability-Intensive Systems Runtime Variability Variability Mining Visualization Techniques for Variability Reverse-Engineering of Variability Economic Aspects of Variability Variability and quality requirements Industrial development of variable systems Experience reports from managing variability in practice Types of Submissions VaMoS accepts the following types of papers:
+Technical Papers We welcome original and unpublished research ideas, methods, techniques, empirical studies and surveys related to the management of software variability, especially in emerging domains where variability poses new challenges. Submissions should be up to 4 pages (+ 2 additional pages for references only) for short papers, or up to 8 pages (+ 2 additional pages for references only) for long papers. Technical papers will be evaluated regarding soundness, relevance, novelty, presentation, and availability of artifacts.
+Variability-in-Practice Papers We welcome contributions from practitioners, industry, and researchers describing real-world, variability-related problems or solutions, including methodologies, tool demonstration and experience reports. Submissions should be up to 4 pages (+ 2 additional pages for references only). Variability-in-Practice Papers will be evaluated regarding soundness, relevance, and presentation.
+Replicability Studies Papers We encourage researchers to replicate results from previous papers. A replicability study must go beyond simply re-implementing an algorithm and/or re-running the artifacts provided by the original paper. It should at the very least apply the approach to new, significantly broadened inputs. A replicability study should clearly report on results that the authors were able to replicate, as well as on aspects of the work that were not replicable. In the latter case, authors are encouraged to make an effort to communicate or collaborate with the original paper’s authors to determine the cause for any observed discrepancies and, if possible, address them (e.g., through minor implementation changes). In particular, replicability studies should follow the ACM guidelines on replicability (different teams, different experimental setups): The measurement can be obtained with stated precision by a different team, a different measuring system, in a different location on multiple trials. For computational experiments, this means that an independent group can obtain the same result using artifacts that they develop completely independently. Submissions should be up to 8 pages (+ 2 additional pages for references only). Replicability Studies will be evaluated regarding soundness, relevance, depth/breadth of experiments, presentation, and availability of artifacts.
+New and Controversial Ideas Papers As last year, we are including a &amp;ldquo;New and Controversial Ideas&amp;rdquo; track. This track is meant for authors to present short (lightning) talks on new (not yet highly evaluated) areas of research or to state positions (possibly controversial) on the directions or lack of directions, on any topic relevant to the VaMoS scientific community. These papers will receive a lightweight review, but should not simply be a shortened version of an existing paper. The papers will be 4 pages (+1 for references). Reviewers will evaluate these papers on how well they articulate a new idea and/or position by providing a compelling argument as to soundness, relevance, and presentation.
+Reviewing Process All submitted papers will be reviewed by at least three program committee members following a double-anonymous review process. The papers submitted must not reveal the authors&amp;rsquo; identities in any way.
+Authors should leave out author names and affiliations from the body of their submission. Authors should ensure that any citation to related work by themselves is written in the third person, that is, &amp;ldquo;the prior work of XYZ&amp;rdquo; as opposed to &amp;ldquo;our prior work&amp;rdquo;. Authors should avoid providing URLs to author-revealing sites (tools, data sets). Any supplemental sites should be fully anonymized. While open science is encouraged for all authors of all papers, visiting such sites should not be needed to conduct reviews. Authors should anonymize author-revealing company names yet can provide general characteristics of the organizations involved needed to understand the context of the paper. For fairness reasons, all submitted papers must conform to the above instructions. Submissions that violate these instructions may be rejected without review at the discretion of the PC chairs.
+Format and Submission Site All submissions must be written in English and follow the double-column ACM template with the options sigconf, review, and anonymous (for technical papers only):\documentclass[sigconf,review,anonymous]{acmart}. At least one author is expected to attend the conference and present the accepted paper. All submissions must be in PDF format. The submission website is Easychair, and will be open on August, 15th. All accepted papers will be published in the ACM Digital Library.
+Artifact Evaluation VaMoS will use an evaluation process to assess the quality of artifacts on which papers are based to foster the culture of experimental reproducibility, the replicability of the work, and its reuse in future evaluations. Authors of accepted research papers are invited to submit additional research artifacts such as programs, source code, scripts, or datasets.
+Ten-years Most Influential Paper Award We are proud to celebrate VaMoS&amp;rsquo; own history and outstanding past publications. As such, we will continue the 10-year most influential paper award tradition and will reward papers from the earlier VaMoS editions that had the highest impact on the community and beyond.
+​## Contact
+For additional information, clarification, or answers to questions, please get in touch with the program co-chairs (clement.quinton at univ-lille.fr and juliana at inf.puc-rio.br).
+Important Dates Abstract Submission: 25 October 2024 (AoE). Paper Submission: 1 November 2024 (AoE). Notification: 2 December 2024 (AoE). Final Version: 13 December 2024 (AoE). Conference: 4-6 February 2025 (AoE) </description>
     </item>
     
     <item>
-      <title>Photos</title>
-      <link>http://lesbaladinsdelatour.free.fr/photos/</link>
+      <title>Organization Committee</title>
+      <link>https://familiar-project.github.io/VaMoS2025/organization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://lesbaladinsdelatour.free.fr/photos/</guid>
-      <description>JUIN 2020: LES BALADES DE L&amp;rsquo;ATLAS Quelques photos du spectacle de 2020 : https://photos.app.goo.gl/LMe2CQ9Hz8K6mpEz7
-JUIN 2019: HISTOIR&amp;rsquo; D&amp;rsquo;OUF&#39; Quelques photos du spectacle de 2019 : https://photos.app.goo.gl/QFBhFby1eswoSVNB8
-JUIN 2018: CLOWNSPORTS L&amp;rsquo;album de 2018 : https://photos.app.goo.gl/AXLa4ZjPKp7msa7B9
-JUIN 2017: LES BALADES DIABLOGUÉES L&amp;rsquo;album de 2017: https://goo.gl/photos/bkrtUsQQFadGLQ9b8</description>
-    </item>
-    
-    <item>
-      <title>Vidéos</title>
-      <link>http://lesbaladinsdelatour.free.fr/videos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://lesbaladinsdelatour.free.fr/videos/</guid>
-      <description>Outre la chaine Youtube des Baladins de la Tour, quelques anciennes vidéos sont disponibles sur Dailymotion.
-2014 La première représentation, le 24 mai 2014 Parvis de l&amp;rsquo;église de Saint Aubin du Cormier.
-Première partie. Deuxième partie 2013 La représentation de Janvier 2013 dans le cadre des 2èmes rencontres de théâtre amateur - Espace Bel-Air de St Aubin Du Cormier</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://lesbaladinsdelatour.free.fr/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://lesbaladinsdelatour.free.fr/contact/</guid>
-      <description>Les ateliers se déroulent tous les mercredi, à l&amp;rsquo;Espace loisir et culture, salle C, à côté de la médiathèque de Saint Aubin du Cormier. Notre adresse email est: lesbaladinsdelatour35@gmail.com</description>
-    </item>
-    
-    <item>
-      <title>Spectacles 2023</title>
-      <link>http://lesbaladinsdelatour.free.fr/posts/spectacles2023/</link>
-      <pubDate>Fri, 07 Jul 2023 13:44:55 +0200</pubDate>
-      
-      <guid>http://lesbaladinsdelatour.free.fr/posts/spectacles2023/</guid>
-      <description>Les spectacles se dérouleront les 26, 27, et 28 mai 2023 à Bel Air
-&lt;img loading=&#34;lazy&#34; src=&#34;http://lesbaladinsdelatour.free.fr/images/flyer2023.jpg&#34; alt=&#34;Affiche spectacles 2023&#34;  /&gt;</description>
-    </item>
-    
-    <item>
-      <title>Atelier Eveil (CP au CE2) - Thème 2022</title>
-      <link>http://lesbaladinsdelatour.free.fr/posts/eveil2022/</link>
-      <pubDate>Sat, 08 Oct 2022 10:41:53 +0200</pubDate>
-      
-      <guid>http://lesbaladinsdelatour.free.fr/posts/eveil2022/</guid>
-      <description>Les ateliers d&amp;rsquo;éveil se déroulent en partenariat avec la médiathèque&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Thème 2022 : Un manifeste contre le repli identitaire.</title>
-      <link>http://lesbaladinsdelatour.free.fr/posts/migrants2022/</link>
-      <pubDate>Sat, 08 Oct 2022 10:41:53 +0200</pubDate>
-      
-      <guid>http://lesbaladinsdelatour.free.fr/posts/migrants2022/</guid>
-      <description>Deux regards sur les migrants et nos sociétés qui se barricadent et se protègent, qui oublient leur héritage, deux tonalités par deux auteurs qui traitent, l’un cyniquement, l’autre poétiquement, de ce qui se joue aujourd’hui  autour de nous , à côté de nous, et « chez nous ».</description>
+      <guid>https://familiar-project.github.io/VaMoS2025/organization/</guid>
+      <description>More information soon!
+General chairs Mathieu Acher, University of Rennes, France
+Program chairs Juliana Alves Pereira, PUC-Rio, Brazil Clément Quinton, University of Lille, France
+Local Arrangements chairs Djamel Eddine Khelladi, CNRS, France Paul Temple, University of Rennes, France</description>
     </item>
     
   </channel>
