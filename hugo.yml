@@ -22,7 +22,7 @@ summaryLength: 3000
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "19th International Working Conference on Variability Modelling of Software-Intensive Systems | 4-6 February 2025 | Rennes, France"
+  title: "" # 19th International Working Conference on Variability Modelling of Software-Intensive Systems | 4-6 February 2025 | Rennes, France"
   description: ""
   keywords: [ "vamos", "software engineering", "software variability", "computer-science-conference", "conference-website"]
   author: VaMoS
