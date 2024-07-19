@@ -1,5 +1,5 @@
 ---
-menu: CfP
+menu: main
 title: Call # for Papers
 weight: 20
 url : "/cfp/"

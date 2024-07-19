@@ -1,5 +1,5 @@
 ---
-menu: Organization
+menu: main
 title: Organization # Committee
 weight: 30
 url : "/organization/"

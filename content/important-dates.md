@@ -1,5 +1,5 @@
 ---
-menu: Important # Dates
+menu: main # Dates
 title: Important # Dates
 weight: 10
 url : "/dates/"
