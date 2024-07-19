@@ -24,9 +24,29 @@ blockquote.quote:after {
 <article class="first-entry home-info">
     <header class="entry-slogan">
         <h1 style="text-align: center;"> {{ .Title | markdownify }}</h1>
-        <blockquote class="quote">
+        <p>
             {{ printf "%s %s" .Content .Extended | markdownify }}
-        </blockquote>                 
+        </p>  
+        
+        <p>
+        VaMoS aims to bring together researchers and practitioners to share ideas, results, and experiences about their quest for mastering variability. Most of today’s software is made variable to allow for more adaptability and economies of scale, while many development practices (e.g., DevOps, A/B testing, parameter tuning, continuous integration) support this goal of engineering software variants. VaMoS is the ideal venue to explore the underlying problems (automation, traceability, combinatorial explosion) and their solutions. As such, in addition to its usual call for technical research papers, VaMoS strongly supports the participation of aspiring young researchers as well as practitioners from industry.
+        </p>
+
+        <p>
+            The <a href="/cfp/">Call for Papers</a> is out! 
+            Some novelties this year: 
+            <ul>
+                <li>broadening of research topics</li>
+                <li>in exceptional cases, authors of accepted papers may be granted permission to present online if they provide valid reasons for being unable to travel, such as personal circumstances or financial constraints.</li>
+                <li>replicability studies papers</li>
+                <li>new and controversial ideas papers is now 4 pages</li>
+            </ul>
+            Paper Submission is 1 November 2024 (AoE, abstract 1 week before). 
+        </p>
+
+        <p>
+            You may find further information on the VaMoS mission and charter, its steering Committee, as well as previous editions and the next edition on the <a href="https://vamosconf.net/">VaMoS website</a>. 
+        </p>
     </header>
     
 </article>
