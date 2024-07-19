@@ -8,7 +8,7 @@ url : "/cfp/"
 19th International Working Conference on Variability Modelling of Software-Intensive Systems
 4-6 February 2025 | Rennes, France | vamosconf.net/2025
 
-*** In exceptional cases, authors of accepted papers may be granted permission to present online if they provide valid reasons for being unable to travel, such as personal circumstances or financial constraints. ***
+***In exceptional cases, authors of accepted papers may be granted permission to present online if they provide valid reasons for being unable to travel, such as personal circumstances or financial constraints.***
 
 Important dates:
 * Abstract Submission: 25 October 2024 (AoE).
@@ -92,23 +92,17 @@ All accepted papers will be published in the ACM Digital Library.
 
 VaMoS will use an evaluation process to assess the quality of artifacts on which papers are based to foster the culture of experimental reproducibility, the replicability of the work, and its reuse in future evaluations. Authors of accepted research papers are invited to submit additional research artifacts such as programs, source code, scripts, or datasets. 
 
-
 ## Ten-years Most Influential Paper Award
 
 We are proud to celebrate VaMoS' own history and outstanding past publications. As such, we will continue the 10-year most influential paper award tradition and will reward papers from the earlier VaMoS editions that had the highest impact on the community and beyond.
 
-​## Contact
+## Contact 
 
 For additional information, clarification, or answers to questions, please get in touch with the program co-chairs (clement.quinton at univ-lille.fr and juliana at inf.puc-rio.br).
 
 
-## Important Dates
 
- * Abstract Submission: 25 October 2024 (AoE).
- * Paper Submission: 1 November 2024 (AoE).
- * Notification: 2 December 2024 (AoE).
- * Final Version: 13 December 2024 (AoE).
- * Conference: 4-6 February 2025 (AoE)
+
 
 
 
