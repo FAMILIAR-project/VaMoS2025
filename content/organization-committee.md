@@ -21,4 +21,8 @@ Mathieu Acher, University of Rennes, France
  * Djamel Eddine Khelladi, CNRS, France
  * Paul Temple, University of Rennes, France
 
+## Publicitly chair
+
+ * Olivier Zendra, Inria, France
+
 
