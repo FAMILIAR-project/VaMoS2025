@@ -46,6 +46,7 @@ Topics of interest include, but are not limited to:
 * Variability and quality requirements
 * Industrial development of variable systems
 * Experience reports from managing variability in practice
+* Variability for Security
 
 
 ## Types of Submissions 
