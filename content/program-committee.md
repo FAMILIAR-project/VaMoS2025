@@ -39,4 +39,6 @@ weight: 40
 - **Deepak Dhungana** - IMC University of Applied Sciences, Austria
 - **Jianmei Guo** - East China Normal University, China
 - **Djamel Seriai** - University of Montpellier, France
+- **Philippe Collet** - University of Nice Sophia Antipolis, France
+
 
