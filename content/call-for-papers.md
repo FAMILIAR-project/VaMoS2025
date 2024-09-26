@@ -57,7 +57,7 @@ VaMoS accepts the following types of papers:
 
 We welcome original and unpublished research ideas, methods, techniques, empirical studies and surveys related to the management of software variability, especially in emerging domains where variability poses new challenges. Submissions should be up to 4 pages (+ 2 additional pages for references only) for short papers, or up to 8 pages (+ 2 additional pages for references only) for long papers. Technical papers will be evaluated regarding soundness, relevance, novelty, presentation, and availability of artifacts. 
 
-### Variability-in-Practice Papers
+### Tool, Demo, and Experience Report Papers
 
 We welcome contributions from practitioners, industry, and researchers describing real-world, variability-related problems or solutions, including methodologies, tool demonstration and experience reports. Submissions should be up to 4 pages (+ 2 additional pages for references only). Variability-in-Practice Papers will be evaluated regarding soundness, relevance, and presentation. 
 
