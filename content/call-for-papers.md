@@ -85,8 +85,10 @@ For fairness reasons, all submitted papers must conform to the above instruction
 ## Format and Submission Site
 
 All submissions must be written in English and follow the double-column ACM template with the options sigconf, review, and anonymous (for technical papers only):\documentclass[sigconf,review,anonymous]{acmart}. At least one author is expected to attend the conference and present the accepted paper.
-All submissions must be in PDF format. The submission website is Easychair, and will be open on August, 15th.
+All submissions must be in PDF format.
 All accepted papers will be published in the ACM Digital Library.
+
+Submissions will be handled via EasyChair : https://easychair.org/my/conference?conf=vamos2025
 
 
 ## Artifact Evaluation
