@@ -5,6 +5,11 @@ weight: 20
 url : "/dates/"
 ---
 
+**3 February 2025**, just before the actual confenrence, there will be a MODEVAR workshop.
+4 days of VaMoS overall! 
+More information coming soon on the MODEVAR website. 
+https://modevar.github.io/ 
+
 **Conference: February 4-6, 2025**
 
 Important dates:
