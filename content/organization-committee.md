@@ -2,6 +2,7 @@
 menu: main
 title: Organization Committee
 url : "/organization/"
+hideInMenu: true
 ---
 
 ## General chairs
