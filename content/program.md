@@ -5,19 +5,31 @@ weight: 10
 url : "/program/"
 ---
 
+VaMoS 2025 will have two exciting keynotes, an awards' session, and numerous talks for technical papers, tool demonstration, experience reports, and new and controversial ideas... and of course french-style social events in the beautiful city of Rennes as well as in the large Inria/IRISA research center. 
+
+The exact schedule will be put online in the next days. 
+VaMoS will start February 3 with [MODEVAR](https://modevar.github.io/) and the conference per se will held February 4, February 5, and February 6.
+
 ## Keynotes
 
-### Variability in brain imaging studies across different analysis pipelines by [Camille Maumet](http://camillemaumet.com/) 
+### Variability in brain imaging studies across different analysis pipelines by [Camille Maumet](http://camillemaumet.com/) (Inria) 
 
+*February 4*
 
-When a change in analysis methods leads to different results, what does it mean for our research findings?
+> When a change in analysis methods leads to different results, what does it mean for our research findings?
+> In this presentation, I will discuss reproducibility in the field of brain imaging (also known as neuroimaging). Neuroimaging studies are characterized by a very large analysis space, and practitioners usually have to choose between different software, software versions, algorithms, parameters, etc.
+> For many years, these choices have been regarded as implementation details, but it is becoming increasingly clear that the exact choices of analytical strategy can lead to different and sometimes contradictory results. 
+> I will review our recent efforts to better understand and manage the different sources of this analytical variability.
 
-In this presentation, I will discuss reproducibility in the field of brain imaging (also known as neuroimaging). Neuroimaging studies are characterized by a very large analysis space, and practitioners usually have to choose between different software, software versions, algorithms, parameters, etc.
+Camille Maumet is a research scientist in neuroinformatics at the [Empenn team](https://team.inria.fr/empenn/), Inria Rennes Bretagne Atlantique / IRISA.
+She studies neuroimaging reproducibility. Her current research focuses on the variability of analytical pipelines and its impact on our ability to reuse (and use) brain imaging datasets. She is also an open science advocate and participates actively in international communities including Brainhack, the INCF, and OHBM Open Science SIG.
 
-For many years, these choices have been regarded as implementation details, but it is becoming increasingly clear that the exact choices of analytical strategy can lead to different and sometimes contradictory results. 
+### Hugo Guillermo Chale-Gongora (Airbus)
 
-I will review our recent efforts to better understand and manage the different sources of this analytical variability.
+*February 5* 
+Hugo Guillermo Chale-Gongora is the Head of PLE & Multidisciplinary Analysis and Optimisation at Airbus. 
 
+Abstract and titles are coming soon! 
 
 ## List of accepted papers
 
