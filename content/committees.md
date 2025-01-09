@@ -5,19 +5,6 @@ url: /committees/
 weight: 20
 ---
 
-## General chairs
-
-Mathieu Acher, University of Rennes, France
-
-## Local Arrangements chairs
-
- * Djamel Eddine Khelladi, CNRS, France
- * Paul Temple, University of Rennes, France
-
-## Publicitly chair
-
- * Olivier Zendra, Inria, France
-
 ## Program chairs
 
  * Juliana Alves Pereira, PUC-Rio, Brazil
@@ -50,6 +37,20 @@ Mathieu Acher, University of Rennes, France
 - **Jacopo Mauro** - University of Southern Denmark, Denmark
 - **Roberto Lopez-Herrejon** - Ecole de Technologie Supérieure de Montreal, Canada
 - **Deepak Dhungana** - IMC University of Applied Sciences, Austria
+
+## General chair
+
+Mathieu Acher, University of Rennes, France
+
+## Local Arrangements chairs
+
+ * Djamel Eddine Khelladi, CNRS, France
+ * Paul Temple, University of Rennes, France
+
+## Publicitly chair
+
+ * Olivier Zendra, Inria, France
+
 - **Jianmei Guo** - East China Normal University, China
 - **Djamel Seriai** - University of Montpellier, France
 - **Philippe Collet** - University of Nice Sophia Antipolis, France
