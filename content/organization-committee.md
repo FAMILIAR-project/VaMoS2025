@@ -5,8 +5,6 @@ weight: 30
 url : "/organization/"
 ---
 
-More information soon!
-
 ## General chairs
 
 Mathieu Acher, University of Rennes, France
