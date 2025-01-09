@@ -37,10 +37,13 @@ weight: 20
 - **Jacopo Mauro** - University of Southern Denmark, Denmark
 - **Roberto Lopez-Herrejon** - Ecole de Technologie Supérieure de Montreal, Canada
 - **Deepak Dhungana** - IMC University of Applied Sciences, Austria
+- **Jianmei Guo** - East China Normal University, China
+- **Djamel Seriai** - University of Montpellier, France
+- **Philippe Collet** - University of Nice Sophia Antipolis, France
 
 ## General chair
 
-Mathieu Acher, University of Rennes, France
+ * Mathieu Acher, University of Rennes, France
 
 ## Local Arrangements chairs
 
@@ -51,8 +54,6 @@ Mathieu Acher, University of Rennes, France
 
  * Olivier Zendra, Inria, France
 
-- **Jianmei Guo** - East China Normal University, China
-- **Djamel Seriai** - University of Montpellier, France
-- **Philippe Collet** - University of Nice Sophia Antipolis, France
+
 
 
