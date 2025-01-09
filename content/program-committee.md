@@ -2,7 +2,6 @@
 menu: main
 title: Program Committee
 url: /program-committee/
-weight: 40
 ---
 
 ## Program chairs
