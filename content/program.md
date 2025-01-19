@@ -7,7 +7,6 @@ url : "/program/"
 
 VaMoS 2025 will have two exciting keynotes, an awards' session, and numerous talks for technical papers, tool demonstration, experience reports, and new and controversial ideas... and of course french-style social events in the beautiful city of Rennes as well as in the large Inria/IRISA research center. 
 
-The exact schedule will be put online in the next days. 
 VaMoS will start February 3 with [MODEVAR](https://modevar.github.io/) and the conference per se will held February 4, February 5, and February 6.
 
 ![Program Overview](../images/VaMoS_Overview.png)
