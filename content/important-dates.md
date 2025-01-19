@@ -14,7 +14,9 @@ https://modevar.github.io/
 
 Important dates:
 * Abstract Submission: 25 October 2024 (AoE).
-* Paper Submission: **8 November 2024** (AoE).
-* Notification: **9 December 2024** (AoE).
-* Final Version: **20 December 2024** (AoE).
+* Paper Submission: 8 November 2024 (AoE).
+* Notification: 9 December 2024 (AoE).
+* Final Version: 20 December 2024 (AoE).
+* Artifact Submission: **19 January 2025** (AOE)
+* Artifact Notification: **29 January 2025** (AOE)
 * Conference: 4-6 February 2025 (AoE)
