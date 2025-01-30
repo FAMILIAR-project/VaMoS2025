@@ -25,12 +25,16 @@ VaMoS will start February 3 with [MODEVAR](https://modevar.github.io/) and the c
 Camille Maumet is a research scientist in neuroinformatics at the [Empenn team](https://team.inria.fr/empenn/), Inria Rennes Bretagne Atlantique / IRISA.
 She studies neuroimaging reproducibility. Her current research focuses on the variability of analytical pipelines and its impact on our ability to reuse (and use) brain imaging datasets. She is also an open science advocate and participates actively in international communities including Brainhack, the INCF, and OHBM Open Science SIG.
 
-### Hugo Guillermo Chale-Gongora (Airbus)
+### Model-Based PLE and Variability Modeling - Which is Yin and which is Yang? by Hugo Guillermo Chale-Gongora (Airbus)
 
 *February 5* 
-Hugo Guillermo Chale-Gongora is the Head of PLE & Multidisciplinary Analysis and Optimisation at Airbus. 
 
-Abstract and titles are coming soon! 
+> Variability management and modelling (VM) undoubtedly plays a central role in feature-based and model-based product line engineering (MBPLE).
+> VM alone, however, is far from guaranteeing an effective deployment of a product line approach in large organizations.
+> This presentation will dig into the (long) journey undergone by many organizations when trying to implement product line engineering, and propose a return of experience about the right questions to ask regarding variability management and modelling.
+> From this, a holistic approach to MBPLE that "aligns all the stars" (marketing, business analysis, architecting, design and engineering) will be proposed. 
+
+Hugo Guillermo Chale-Gongora is the Head of PLE & Multidisciplinary Analysis and Optimisation at Airbus. 
 
 ## List of accepted papers
 
