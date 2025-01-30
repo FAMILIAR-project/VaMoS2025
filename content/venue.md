@@ -5,7 +5,11 @@ path: /venue/
 weight: 50
 ---
 
-The 19th International Working Conference on Variability Modelling of Software-Intensive Systems will be held in Rennes, France, at the Inria Conference center.
+The 19th International Working Conference on Variability Modelling of Software-Intensive Systems will be held in Rennes, France, at the **Inria Conference center**.
+
+Location on Google maps: https://maps.app.goo.gl/tBPgDtbrSxpXa8mbA 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d627.3345243189294!2d-1.6398788!3d48.1164303!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x480edee5a599f107%3A0x318da7854b094389!2sCentre%20Inria%20de%20l&#39;Universit%C3%A9%20de%20Rennes!5e1!3m2!1sfr!2sfr!4v1738256243764!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 Rennes is the 2nd-largest digital hub in France (after Paris), and the largest education and research center in the West of France. With over 60,000 students on a population of 250,000, Rennes is a peaceful yet vibrant city. It is also an internationally-recognized high-tech R&D center in cloud computing, networks and media.
 
@@ -33,7 +37,8 @@ The Beaulieu university campus. This is the main scientific campus in Rennes, wh
 
 ### Conference center
 
-The conference will be organized at INRIA's conference center. The center frequently hosts international conferences (among many others: TTL 2015, OPODIS 2015, DASIP 2016, ICFCA 2017, Middleware 2018). The facilities include an auditorium (capacity: 240 seats) with state-of-the-art audio-visual equipment: projector, sound system, possibilities for videoconferences and/or for filming the presentations, etc. The conference center also includes a reception space for coffee breaks as well as three smaller rooms (capacity: 50 persons each) which may be used separately or joined together for lunches, poster sessions, etc. A high-quality Wi-Fi network covers the full center: European academics will have access to their familiar Eduroam network, and individual credentials will be given to other attendees.
+The conference will be organized at Inria's conference center: Location on Google maps: https://maps.app.goo.gl/tBPgDtbrSxpXa8mbA  
+The center frequently hosts international conferences (among many others: TTL 2015, OPODIS 2015, DASIP 2016, ICFCA 2017, Middleware 2018). The facilities include an auditorium (capacity: 240 seats) with state-of-the-art audio-visual equipment: projector, sound system, possibilities for videoconferences and/or for filming the presentations, etc. The conference center also includes a reception space for coffee breaks as well as three smaller rooms (capacity: 50 persons each) which may be used separately or joined together for lunches, poster sessions, etc. A high-quality Wi-Fi network covers the full center: European academics will have access to their familiar Eduroam network, and individual credentials will be given to other attendees.
 
 ![InriaRennes](../images/INRIARennes.png)
 
