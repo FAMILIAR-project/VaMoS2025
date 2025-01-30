@@ -9,7 +9,7 @@ VaMoS 2025 will have two exciting keynotes, an awards' session, and numerous tal
 
 VaMoS will start February 3 with [MODEVAR](https://modevar.github.io/) and the conference per se will held February 4, February 5, and February 6.
 
-![Program Overview](../images/VaMoS_Overview.png)
+![Program Overview](../images/VaMoS-Program-refined.png)
 
 ## Keynotes
 
