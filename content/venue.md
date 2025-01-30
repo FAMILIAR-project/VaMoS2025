@@ -29,15 +29,21 @@ The city of Rennes is well served by public transport with its 2 metros and nume
 
 ## Inria Conference center
 
-### Location :
+### Location and reaching the center 
 
 The Beaulieu university campus. This is the main scientific campus in Rennes, which is located just outside of the city center. It is very easily reachable by bus (10-15 minutes ride from the city center), and it provides excellent infrastructure for both the workshops and the main conference at only symbolic cost (or even possibly entirely free).
+Specifically:
+ * From the train station, take metro B or metro A + bus C4/C6  (stop: Tournebride)
+ * From the airport, take bus C6.
+"République" station is the central place where C4/C6 are highly available.
+Besides, there are plenty of cabs at the station and airport.
+More information here: https://www.inria.fr/en/how-reach-inria-centre-rennes-university 
 
 ![BeaulieuLocation](../images/InriaRennesLocation.png)
 
 ### Conference center
 
-The conference will be organized at Inria's conference center: Location on Google maps: https://maps.app.goo.gl/tBPgDtbrSxpXa8mbA  
+The conference will be organized at Inria's conference center. Location on Google maps: https://maps.app.goo.gl/tBPgDtbrSxpXa8mbA  
 The center frequently hosts international conferences (among many others: TTL 2015, OPODIS 2015, DASIP 2016, ICFCA 2017, Middleware 2018). The facilities include an auditorium (capacity: 240 seats) with state-of-the-art audio-visual equipment: projector, sound system, possibilities for videoconferences and/or for filming the presentations, etc. The conference center also includes a reception space for coffee breaks as well as three smaller rooms (capacity: 50 persons each) which may be used separately or joined together for lunches, poster sessions, etc. A high-quality Wi-Fi network covers the full center: European academics will have access to their familiar Eduroam network, and individual credentials will be given to other attendees.
 
 ![InriaRennes](../images/INRIARennes.png)
