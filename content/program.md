@@ -145,9 +145,9 @@ Visit of the IMMERSIA and the RAINBOW IRISA platforms
 #### 11:00 - 12:30  
 **Session 5: Sampling**  
 (Session chair: José A. Galindo)
-- Lukas Birkemeyer, Tobias Pett, Tobias Runge, and Ina Schaefer - *Selective Sampling: A Complexity-Aware Sampling Strategy for Combinatorial Scenario-based Testing* (Technical Papers)  
-- Rahel Sundermann, Sabrina Böhm, Sebastian Krieter, Malte Lochau, and Thomas Thüm - *Covering T-Wise Interactions of Deployed Configurations* (Technical Papers)  
-- Nikolai Käfer, Sven Apel, Christel Baier, Clemens Dubslaff, and Holger Hermanns - *When to Sample from Feature Diagrams?* (Technical Papers)  
+- **Lukas Birkemeyer**, Tobias Pett, Tobias Runge, and Ina Schaefer - *Selective Sampling: A Complexity-Aware Sampling Strategy for Combinatorial Scenario-based Testing* (Technical Papers) *Discussant: Nikolai Käfer*  
+- Rahel Sundermann, Sabrina Böhm, **Sebastian Krieter**, Malte Lochau, and Thomas Thüm - *Covering T-Wise Interactions of Deployed Configurations* (Technical Papers) *Discussant: Lukas Birkemeyer*  
+- **Nikolai Käfer**, Sven Apel, Christel Baier, Clemens Dubslaff, and Holger Hermanns - *When to Sample from Feature Diagrams?* (Technical Papers) *Discussant: Sebastian Krieter* 
 
 
 
@@ -157,9 +157,9 @@ Visit of the IMMERSIA and the RAINBOW IRISA platforms
 #### 13:30 - 15:00  
 **Session 6: Cloud & Virtualization**  
 (Session chair: Jude Gyimah)
-- Tobias Bergthaler, Matthias Preuner, Paul Grünbacher, and Alexander Egyed - *Providing the Variation Control System ECCO as a Service* (Tool, Demo, and Experience Report Papers)
-- Tobias Fellner and Paul Grünbacher - *Cross-Vendor Variability Management for Cloud Systems Using the TOSCA DSL* (Technical Papers)
-- José Miguel Horcas Aguilera, Mercedes Amor Pinilla, and Lidia Fuentes - *The Kubernetes Variability Model* (Technical Papers)
+- Tobias Bergthaler, Matthias Preuner, **Paul Grünbacher**, and Alexander Egyed - *Providing the Variation Control System ECCO as a Service* (Tool, Demo, and Experience Report Papers) *Discussant: José Miguel Horcas*
+- Tobias Fellner and **Paul Grünbacher** - *Cross-Vendor Variability Management for Cloud Systems Using the TOSCA DSL* (Technical Papers) *Discussant: Mathieu Acher*
+- José Miguel Horcas Aguilera, Mercedes Amor Pinilla, and Lidia Fuentes - *The Kubernetes Variability Model* (Technical Papers) *Discussant: Paul Grünbacher* 
 
 #### 15:00 - 15:30  
 **Break**
@@ -167,10 +167,10 @@ Visit of the IMMERSIA and the RAINBOW IRISA platforms
 #### 15:30 - 17:00  
 **Session 7: Applications**  
 (Session chair: ??)
-- Pascal Becker, Sten Gruener, and Lukas Linsbauer - *Analyzing SCons-Based Industrial Software Product Lines* (Tool, Demo, and Experience Report Papers)  
-- Richard May and Simon Adler - *Experiences in Developing Configurable Digital Twin-assisted xR Applications for Industrial Environments* (Tool, Demo, and Experience Report Papers)  
-- Victor Lamas, Maria-Isabel Limaylla-Lunarejo, Miguel R. Luaces, David Romero-Organvidez, José A. Galindo, and David Benavides - *UVL.js: Experiences on using UVL in the JavaScript Ecosystem* (Tool, Demo, and Experience Report Papers)  
-- Sultan Fathurrahman Tsany, Rifqi Farel Muhammad, Dhafin Raditya Juliawan, Maya Retno Ayu Setyautami, and Ichlasul Affan - *Delta-Oriented Multi-Level Configuration in Payment Gateway Product Lines* (Tool, Demo, and Experience Report Papers)  
+- **Pascal Becker**, Sten Gruener, and Lukas Linsbauer - *Analyzing SCons-Based Industrial Software Product Lines* (Tool, Demo, and Experience Report Papers)  *Discussant: Sulthan Fathurrahman Tsany*
+- **Richard May** and Simon Adler - *Experiences in Developing Configurable Digital Twin-assisted xR Applications for Industrial Environments* (Tool, Demo, and Experience Report Papers) *Discussant: Pascal Becker*
+- **Victor Lamas**, Maria-Isabel Limaylla-Lunarejo, Miguel R. Luaces, David Romero-Organvidez, José A. Galindo, and David Benavides - *UVL.js: Experiences on using UVL in the JavaScript Ecosystem* (Tool, Demo, and Experience Report Papers)  *Discussant: Richard May*
+- **Sultan Fathurrahman Tsany**, Rifqi Farel Muhammad, Dhafin Raditya Juliawan, Maya Retno Ayu Setyautami, and Ichlasul Affan - *Delta-Oriented Multi-Level Configuration in Payment Gateway Product Lines* (Tool, Demo, and Experience Report Papers) *Discussant: Victor Lamas*
 
 ### VaMoS dinner at 19:00 
 
@@ -197,9 +197,9 @@ https://maps.app.goo.gl/u3SWE37KiAW23dN17
 #### 11:00 - 12:30  
 **Session 9: Configuration & Analyses**  
 (Session chair: ??)
-- Max Breit, Mathis Weiß, Roman Obermaisser, and Malte Lochau - *Modeling and Analysis of Configurable Job-Shop Scheduling Problems* (Technical Papers)  
-- Alexander Felfernig, Damian Garber, Viet-Man Le, and Sebastian Lubos - *Causality-based Explanations for Feature Model Configuration* (Technical Papers)  
-- Jude Gyimah, Jan Sollmann, Ole Schuerks, Patrick Franz, and Thorsten Berger - *A Demo of ConfigFix: Semantic Abstraction of Kconfig, SAT-based Configuration, and DIMACS Export* (Tool, Demo, and Experience Report Papers)  
+- Max Breit, **Mathis Weiß**, Roman Obermaisser, and Malte Lochau - *Modeling and Analysis of Configurable Job-Shop Scheduling Problems* (Technical Papers) *Discussant: Jude Gyimah*  
+- Alexander Felfernig, **Damian Garber**, Viet-Man Le, and Sebastian Lubos - *Causality-based Explanations for Feature Model Configuration* (Technical Papers) *Discussant: Mathis Weiß*  
+- **Jude Gyimah**, Jan Sollmann, Ole Schuerks, Patrick Franz, and Thorsten Berger - *A Demo of ConfigFix: Semantic Abstraction of Kconfig, SAT-based Configuration, and DIMACS Export* (Tool, Demo, and Experience Report Papers) *Discussant: Damian Garber*  
 
 
 #### 12:30 - 13:00  
