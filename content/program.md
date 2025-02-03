@@ -92,7 +92,7 @@ Hugo Guillermo Chale-Gongora is the Head of PLE & Multidisciplinary Analysis and
 **Welcome by VaMoS General Chair and PC Chairs** (30 min)
 
 #### 09:30 - 10:30  
-**Keynote: Camille Maurel (Inria)**  
+**Keynote: Camille Maumet (Inria)**  
 *Variability in brain imaging studies across different analysis pipelines* (60 min)
 
 #### 10:30 - 11:00  
