@@ -23,4 +23,15 @@ Mathieu Acher, University of Rennes, France
 
  * Olivier Zendra, Inria, France
 
+## Local organization
+
+ * Charly Reux (PhD student, University of Rennes)
+ * Heraldo Pimenta Borges Filho (postdoc, University of Rennes)
+ * Jolan Philippe (postdoc, University of Rennes)
+ * Romain Lefeuvre (PhD student, University of Rennes)
+
+
+
+
+
 
