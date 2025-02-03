@@ -15,7 +15,7 @@ weight: 20
  * Juliana Alves Pereira, PUC-Rio, Brazil
  * Clément Quinton, University of Lille, France
 
-## Program Committee
+## Program Committee (Research Track)
 
 - **Alexander Felfernig** - TU Graz, Austria
 - **Camille Salinesi** - CRI, Université de Paris 1 Panthéon-Sorbonne, France
@@ -46,7 +46,7 @@ weight: 20
 - **Djamel Seriai** - University of Montpellier, France
 - **Philippe Collet** - University of Nice Sophia Antipolis, France
 
-## Program Committee
+## Program Committee (Artifacts Evaluation)
 
 - **Vander Alves** - University of Brasília, Brazil
 - **Alexander Boll** - University of Bern, Switzerland
