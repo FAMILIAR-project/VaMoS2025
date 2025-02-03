@@ -5,6 +5,11 @@ url: /committees/
 weight: 20
 ---
 
+## General chair
+
+ * Mathieu Acher, University of Rennes, France
+
+
 ## Program chairs
 
  * Juliana Alves Pereira, PUC-Rio, Brazil
@@ -41,9 +46,20 @@ weight: 20
 - **Djamel Seriai** - University of Montpellier, France
 - **Philippe Collet** - University of Nice Sophia Antipolis, France
 
-## General chair
+## Program Committee
 
- * Mathieu Acher, University of Rennes, France
+- **Vander Alves** - University of Brasília, Brazil
+- **Alexander Boll** - University of Bern, Switzerland
+- **Philippe Collet** - University of Nice Sophia Antipolis, France
+- **Samuel Duibuisson** - University of Lille, France
+- **José A. Galindo** - University of Sevilla, Spain
+- **Sandra Greiner** - University of Bern, Switzerland
+- **Jihyun Lee** - Jeonbuk National University, South Korea
+- **Gilles Perrouin** - Université de Namur, Belgium
+- **Mónica Pinto** - ITIS Software, University of Málaga, Spain
+- **Leopoldo Teixeira** - Federal University of Pernambuco, Brazil
+- **Xhevahire Tërnava** - Télécom Paris, IP Paris, France
+- **Nada Zine** - University of Lille, France
 
 ## Local Arrangements chairs
 
