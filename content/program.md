@@ -119,9 +119,10 @@ Hugo Guillermo Chale-Gongora is the Head of PLE & Multidisciplinary Analysis and
 **Break**
 
 #### 15:30 - 18:00  
-**Social Event**
+**Social Event** (in the campus and at Inria)
 
-#### Reception
+#### 18:00 - 19:00 
+**Reception** (in the Inria hall)
 
 ---
 
@@ -167,6 +168,12 @@ Hugo Guillermo Chale-Gongora is the Head of PLE & Multidisciplinary Analysis and
 - Victor Lamas, Maria-Isabel Limaylla-Lunarejo, Miguel R. Luaces, David Romero-Organvidez, José A. Galindo, and David Benavides - *UVL.js: Experiences on using UVL in the JavaScript Ecosystem* (Tool, Demo, and Experience Report Papers)  
 - Sultan Fathurrahman Tsany, Rifqi Farel Muhammad, Dhafin Raditya Juliawan, Maya Retno Ayu Setyautami, and Ichlasul Affan - *Delta-Oriented Multi-Level Configuration in Payment Gateway Product Lines* (Tool, Demo, and Experience Report Papers)  
 
+### VaMoS dinner at 19:00 
+
+Restaurant Taverne de la Marine: meet at Lobby Inria or at the restaurant. 
+The restaurant is closed to "République" station (you can typically take bus C4 or C6)
+https://maps.app.goo.gl/u3SWE37KiAW23dN17
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2664.0386880259725!2d-1.6848003999999996!3d48.1094894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x480ede3290694ebd%3A0xfe34c0caa5a43f40!2sLa%20Taverne%20de%20la%20Marine!5e0!3m2!1sfr!2sfr!4v1738579405466!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
