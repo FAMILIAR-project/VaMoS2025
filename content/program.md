@@ -102,7 +102,7 @@ Hugo Guillermo Chale-Gongora is the Head of PLE & Multidisciplinary Analysis and
 **Session 2: Behaviour & Learning**  
 (Session chair: Gilles Perrouin)
 - Birte Friesel and Olaf Spinczyk *Performance-Aware Behaviour Models for Feature-Dependent Runtime Attributes in Product Lines* (New and Controversial Ideas)
-- Tom Felber and Sebastian Götz - *Behavioral Programming Meets Variability Management* (New and Controversial Ideas)
+- Tom Felber and Sebastian Götz - *Behavioral Programming in the Large Using Variability Management* (New and Controversial Ideas)
 - Michael Mittermaier, Takfarinas Saber and Goetz Botterweck - *Applying Graph Neural Networks to Learn Graph Configuration Spaces* (Technical Papers)
 
 #### 12:30 - 13:30  
