@@ -11,7 +11,7 @@ VaMoS will start February 3 with [MODEVAR](https://modevar.github.io/) and the c
 Location on Google maps: https://maps.app.goo.gl/tBPgDtbrSxpXa8mbA 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d627.3345243189294!2d-1.6398788!3d48.1164303!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x480edee5a599f107%3A0x318da7854b094389!2sCentre%20Inria%20de%20l&#39;Universit%C3%A9%20de%20Rennes!5e1!3m2!1sfr!2sfr!4v1738256243764!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-![Program Overview](../images/VaMoS-Program-refined.png)
+![Program Overview](../images/VaMoS-Program-refined.jpg)
 
 ## Keynotes
 
