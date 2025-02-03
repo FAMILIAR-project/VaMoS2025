@@ -92,7 +92,8 @@ Hugo Guillermo Chale-Gongora is the Head of PLE & Multidisciplinary Analysis and
 **Welcome by VaMoS General Chair and PC Chairs** (30 min)
 
 #### 09:30 - 10:30  
-**Keynote: Camille Maumet (Inria)**  
+**Session 1: Keynote: Camille Maumet (Inria)**  
+(Session chair: Philippe Collet)
 *Variability in brain imaging studies across different analysis pipelines* (60 min)
 
 #### 10:30 - 11:00  
@@ -110,7 +111,7 @@ Hugo Guillermo Chale-Gongora is the Head of PLE & Multidisciplinary Analysis and
 
 #### 13:30 - 15:00  
 **Session 3: Misc.**  
-(Session chair: ??)
+(Session chair: José Miguel Horcas)
 - Elias Kuiter, Thomas Thüm and Timo Kehrer  - *Teach Variability! A Modern University Course on Software Product Lines* (Technical Papers)
 - Richard May, Christian Biermann, Jacob Krüger and Thomas Leich - *Asking Security Practitioners: Did You Find the Vulnerable (Mis)Configuration?* (Technical Papers)
 - Francisco Sebastian Benitez, José A. Galindo, David Romero Organvídez and David Benavides  - *UVL web-based editing and analysis with flamapy.ide* (Tool, Demo, and Experience Report Papers)
@@ -132,7 +133,8 @@ Hugo Guillermo Chale-Gongora is the Head of PLE & Multidisciplinary Analysis and
 **Registration**
 
 #### 09:30 - 10:30  
-**Keynote: Hugo Guillermo Chale-Gongora (Airbus)**  
+**Session 4: Keynote: Hugo Guillermo Chale-Gongora (Airbus)**  
+(Session chair: ??)
 *Model-Based PLE and Variability Modeling - Which is Yin and which is Yang?* (60 min)
 
 #### 10:00 - 10:30  
@@ -152,7 +154,7 @@ Hugo Guillermo Chale-Gongora is the Head of PLE & Multidisciplinary Analysis and
 
 #### 13:30 - 15:00  
 **Session 6: Cloud & Virtualization**  
-(Session chair: ??)
+(Session chair: Jude Gyimah)
 - Tobias Bergthaler, Matthias Preuner, Paul Grünbacher, and Alexander Egyed - *Providing the Variation Control System ECCO as a Service* (Tool, Demo, and Experience Report Papers)
 - Tobias Fellner and Paul Grünbacher - *Cross-Vendor Variability Management for Cloud Systems Using the TOSCA DSL* (Technical Papers)
 - José Miguel Horcas Aguilera, Mercedes Amor Pinilla, and Lidia Fuentes - *The Kubernetes Variability Model* (Technical Papers)
@@ -161,7 +163,7 @@ Hugo Guillermo Chale-Gongora is the Head of PLE & Multidisciplinary Analysis and
 **Break**
 
 #### 15:30 - 17:00  
-**Session 9: Applications**  
+**Session 7: Applications**  
 (Session chair: ??)
 - Pascal Becker, Sten Gruener, and Lukas Linsbauer - *Analyzing SCons-Based Industrial Software Product Lines* (Tool, Demo, and Experience Report Papers)  
 - Richard May and Simon Adler - *Experiences in Developing Configurable Digital Twin-assisted xR Applications for Industrial Environments* (Tool, Demo, and Experience Report Papers)  
@@ -183,7 +185,7 @@ https://maps.app.goo.gl/u3SWE37KiAW23dN17
 **Registration**
 
 #### 09:30 - 10:30  
-**VaMoS Keynote**  
+**Session 8: VaMoS Keynote**  
 (Session chair: ??)
 *MIP Award - Sandro Schulze, Wolfram Fenske* 
 
@@ -191,7 +193,7 @@ https://maps.app.goo.gl/u3SWE37KiAW23dN17
 **Break**
 
 #### 11:00 - 12:30  
-**Session 8: Configuration & Analyses**  
+**Session 9: Configuration & Analyses**  
 (Session chair: ??)
 - Max Breit, Mathis Weiß, Roman Obermaisser, and Malte Lochau - *Modeling and Analysis of Configurable Job-Shop Scheduling Problems* (Technical Papers)  
 - Alexander Felfernig, Damian Garber, Viet-Man Le, and Sebastian Lubos - *Causality-based Explanations for Feature Model Configuration* (Technical Papers)  
