@@ -40,4 +40,17 @@ url: /program-committee/
 - **Djamel Seriai** - University of Montpellier, France
 - **Philippe Collet** - University of Nice Sophia Antipolis, France
 
+## Artifact Evaluation Program Committee:
 
+ - **José A. Galindo** - University of Sevilla, Spain
+ - **Jihyun Lee**
+ - **Mónica Pinto** - ITIS Software, University of Málaga, Spain
+ - **Nada Zine**  - University of Lille, France
+ - **Alexander Boll** - University of Bern, Switzerland 
+ - **Philippe Collet** - University of Nice Sophia Antipolis, France
+ - **Samuel Dubuisson** - University of Lille, France
+ - **Xhevahire Tërnava** - Télécom Paris, IP Paris, France
+ - **Sandra Greiner** - University of Bern, Switzerland
+ - **Leopoldo Teixeira** - Federal University of Pernambuco, Brazil
+ - **Vander Alves** - University of Brasília, Brazil
+ - **Gilles Perrouin** - Université de Namur, Belgium
