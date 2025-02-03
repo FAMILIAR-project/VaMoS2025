@@ -102,9 +102,9 @@ Hugo Guillermo Chale-Gongora is the Head of PLE & Multidisciplinary Analysis and
 #### 11:00 - 12:30  
 **Session 2: Behaviour & Learning**  
 (Session chair: Gilles Perrouin)
-- Birte Friesel and Olaf Spinczyk *Performance-Aware Behaviour Models for Feature-Dependent Runtime Attributes in Product Lines* (New and Controversial Ideas)
-- Tom Felber and Sebastian Götz - *Behavioral Programming in the Large Using Variability Management* (New and Controversial Ideas)
-- Michael Mittermaier, Takfarinas Saber and Goetz Botterweck - *Applying Graph Neural Networks to Learn Graph Configuration Spaces* (Technical Papers)
+- **Birte Friesel** and Olaf Spinczyk *Performance-Aware Behaviour Models for Feature-Dependent Runtime Attributes in Product Lines* (New and Controversial Ideas) *Discussant: Michael Mittermaier*
+- Tom Felber and **Sebastian Götz** - *Behavioral Programming in the Large Using Variability Management* (New and Controversial Ideas) *Discussant: Birte Friesel*
+- **Michael Mittermaier**, Takfarinas Saber and Goetz Botterweck - *Applying Graph Neural Networks to Learn Graph Configuration Spaces* (Technical Papers) *Discussant: Sebastian Götz*
 
 #### 12:30 - 13:30  
 **Lunch Break**
@@ -112,15 +112,17 @@ Hugo Guillermo Chale-Gongora is the Head of PLE & Multidisciplinary Analysis and
 #### 13:30 - 15:00  
 **Session 3: Misc.**  
 (Session chair: José Miguel Horcas)
-- Elias Kuiter, Thomas Thüm and Timo Kehrer  - *Teach Variability! A Modern University Course on Software Product Lines* (Technical Papers)
-- Richard May, Christian Biermann, Jacob Krüger and Thomas Leich - *Asking Security Practitioners: Did You Find the Vulnerable (Mis)Configuration?* (Technical Papers)
-- Francisco Sebastian Benitez, José A. Galindo, David Romero Organvídez and David Benavides  - *UVL web-based editing and analysis with flamapy.ide* (Tool, Demo, and Experience Report Papers)
+- **Elias Kuiter**, Thomas Thüm and Timo Kehrer  - *Teach Variability! A Modern University Course on Software Product Lines* (Technical Papers) *Discussant: Richard May*
+- **Richard May**, Christian Biermann, Jacob Krüger and Thomas Leich - *Asking Security Practitioners: Did You Find the Vulnerable (Mis)Configuration?* (Technical Papers) *Discussant: José A. Galindo*
+- Francisco Sebastian Benitez, **José A. Galindo**, David Romero Organvídez and David Benavides  - *UVL web-based editing and analysis with flamapy.ide* (Tool, Demo, and Experience Report Papers) *Discussant: Elias Kuiter*
 
 #### 15:00 - 15:30  
 **Break**
 
 #### 15:30 - 18:00  
 **Social Event** (in the campus and at Inria)
+
+Visit of the IMMERSIA and the RAINBOW IRISA platforms
 
 #### 18:00 - 19:00 
 **Reception** (in the Inria hall)
