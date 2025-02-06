@@ -36,7 +36,7 @@ weight: 20
 - **Ivan Machado** - Federal University of Bahia, Brazil
 - **Vander Alves** - University of Brasília, Brazil
 - **Jabier Martinez** - Tecnalia, France
-- **Sandra Greiner** - University of Bern, Switzerland
+- **Sandra Greiner** - University of Southern Denmark & University of Regensburg, Germany
 - **Christoph Elsner** - Siemens AG
 - **Mónica Pinto** - ITIS Software, University of Málaga, Spain
 - **Jacopo Mauro** - University of Southern Denmark, Denmark
@@ -53,7 +53,7 @@ weight: 20
 - **Philippe Collet** - University of Nice Sophia Antipolis, France
 - **Samuel Duibuisson** - University of Lille, France
 - **José A. Galindo** - University of Sevilla, Spain
-- **Sandra Greiner** - University of Bern, Switzerland
+- **Sandra Greiner** - University of Southern Denmark & University of Regensburg, Germany
 - **Jihyun Lee** - Jeonbuk National University, South Korea
 - **Gilles Perrouin** - Université de Namur, Belgium
 - **Mónica Pinto** - ITIS Software, University of Málaga, Spain
