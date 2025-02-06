@@ -1,6 +1,7 @@
 ---
 menu: main
-title: Committees
+title: Organization
+url: /committees/
 weight: 20
 ---
 
@@ -28,9 +29,9 @@ weight: 20
 - **Sébastien Mosser** - McMaster University, Canada
 - **Leopoldo Teixeira** - Federal University of Pernambuco, Brazil
 - **Wesley K. G. Assunção** - North Carolina State University, USA
-- **David Benavides** - University of Seville, Spain
+- **David Benavides** - University of Sevilla, Spain
+- **Jihyun Lee** - Jeonbuk National University, South Korea
 - **Jacob Krüger** - Eindhoven University of Technology, Netherlands
-- **Thomas Thüm** - University of Ulm, Germany
 - **Gilles Perrouin** - Université de Namur, Belgium
 - **Ivan Machado** - Federal University of Bahia, Brazil
 - **Vander Alves** - University of Brasília, Brazil
@@ -41,8 +42,7 @@ weight: 20
 - **Jacopo Mauro** - University of Southern Denmark, Denmark
 - **Roberto Lopez-Herrejon** - Ecole de Technologie Supérieure de Montreal, Canada
 - **Deepak Dhungana** - IMC University of Applied Sciences, Austria
-- **Jianmei Guo** - East China Normal University, China
-- **Djamel Seriai** - University of Montpellier, France
+- **Djamel A. Seriai** - University of Montpellier, France
 - **Philippe Collet** - University of Nice Sophia Antipolis, France
 
 ## Program Committee (Artifacts Evaluation)
@@ -50,7 +50,7 @@ weight: 20
 - **Vander Alves** - University of Brasília, Brazil
 - **Alexander Boll** - University of Bern, Switzerland
 - **Philippe Collet** - University of Nice Sophia Antipolis, France
-- **Samuel Duibuisson** - University of Lille, France
+- **Samuel Dubuisson** - University of Lille, France
 - **José A. Galindo** - University of Sevilla, Spain
 - **Sandra Greiner** - University of Southern Denmark & University of Regensburg, Germany
 - **Jihyun Lee** - Jeonbuk National University, South Korea
@@ -65,9 +65,16 @@ weight: 20
  * Djamel Eddine Khelladi, CNRS, France
  * Paul Temple, University of Rennes, France
 
-## Publicitly chair
+## Publicity chair
 
  * Olivier Zendra, Inria, France
+
+## Local organization
+
+ * Charly Reux, PhD student, University of Rennes
+ * Heraldo Pimenta Borges Filho, postdoc, University of Rennes
+ * Jolan Philippe, postdoc, University of Rennes
+ * Romain Lefeuvre, PhD student, University of Rennes
 
 
 
