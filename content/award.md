@@ -15,7 +15,7 @@ Elias Kuiter, Thomas Thüm and Timo Kehrer - Teach Variability! A Modern Univers
 
 ## Best Paper Reviewer
 
-Sandra Greiner - University of Bern, Switzerland
+Sandra Greiner - University of Southern Denmark & University of Regensburg, Germany
 
 ## Best Artifact Evaluation Reviewer
 
