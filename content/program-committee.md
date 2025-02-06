@@ -30,7 +30,7 @@ url: /program-committee/
 - **Ivan Machado** - Federal University of Bahia, Brazil
 - **Vander Alves** - University of Brasília, Brazil
 - **Jabier Martinez** - Tecnalia, France
-- **Sandra Greiner** - University of Bern, Switzerland
+- **Sandra Greiner** - University of Southern Denmark & University of Regensburg, Germany
 - **Christoph Elsner** - Siemens AG
 - **Mónica Pinto** - ITIS Software, University of Málaga, Spain
 - **Jacopo Mauro** - University of Southern Denmark, Denmark
@@ -50,7 +50,7 @@ url: /program-committee/
  - **Philippe Collet** - University of Nice Sophia Antipolis, France
  - **Samuel Dubuisson** - University of Lille, France
  - **Xhevahire Tërnava** - Télécom Paris, IP Paris, France
- - **Sandra Greiner** - University of Bern, Switzerland
+ - **Sandra Greiner** - University of Southern Denmark & University of Regensburg, Germany
  - **Leopoldo Teixeira** - Federal University of Pernambuco, Brazil
  - **Vander Alves** - University of Brasília, Brazil
  - **Gilles Perrouin** - Université de Namur, Belgium
