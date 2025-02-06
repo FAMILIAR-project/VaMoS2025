@@ -1,7 +1,6 @@
 ---
 menu: main
 title: Committees
-url: /committees/
 weight: 20
 ---
 
